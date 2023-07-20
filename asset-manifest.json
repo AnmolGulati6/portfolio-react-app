@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.d257091b.css",
+    "main.js": "/portfolio-react-app/static/js/main.d49ec827.js",
+    "static/media/background.png": "/portfolio-react-app/static/media/background.6524f5f0ddfcf09a0068.png",
+    "static/media/svm.png": "/portfolio-react-app/static/media/svm.82db7f6e38609f064ff5.png",
+    "static/media/youtube.png": "/portfolio-react-app/static/media/youtube.e397e557ca1bb806c251.png",
+    "static/media/java.png": "/portfolio-react-app/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/podSnap.png": "/portfolio-react-app/static/media/podSnap.07fb8b285c1f883a7d3c.png",
+    "static/media/fst.png": "/portfolio-react-app/static/media/fst.69a338e9fe53df010b00.png",
+    "static/media/path.png": "/portfolio-react-app/static/media/path.e2f2f9c795615cbce2dc.png",
+    "static/media/chatBridge.png": "/portfolio-react-app/static/media/chatBridge.ac3623795e3da010c19e.png",
+    "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/pong.png": "/portfolio-react-app/static/media/pong.4f453afad6a5ed7b740a.png",
+    "static/media/logo2.png": "/portfolio-react-app/static/media/logo2.87ecf5660fc43c55278a.png",
+    "static/media/swift.png": "/portfolio-react-app/static/media/swift.38b9f1d81d09b7a32038.png",
+    "static/media/c.png": "/portfolio-react-app/static/media/c.93ba055912b94fb81081.png",
+    "static/media/html.png": "/portfolio-react-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-react-app/index.html",
+    "main.d257091b.css.map": "/portfolio-react-app/static/css/main.d257091b.css.map",
+    "main.d49ec827.js.map": "/portfolio-react-app/static/js/main.d49ec827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d257091b.css",
+    "static/js/main.d49ec827.js"
+  ]
+}
